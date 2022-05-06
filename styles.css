@@ -1,0 +1,275 @@
+.accessible {
+  padding: 20px;
+}
+.accessible .opening {
+  line-height: 20px;
+}
+.opening {
+  margin-bottom: 25px;
+}
+#wrapper {
+  font-family: 'Open Sans', sans-serif;
+  color: #292c32;
+}
+#wrapper {
+  font-family: 'Open Sans', sans-serif;
+  color: #292c32;
+}
+#wrapper {
+  max-width: 980px;
+  margin: 0 auto;
+  overflow: auto;
+  padding: 0 10px;
+  min-height: 100%;
+}
+#wrapper {
+  font-family: 'Open Sans', sans-serif;
+  color: #292c32;
+}
+.opening a {
+  color: #5d3ebc;
+}
+#flash_wrapper {
+  position: fixed;
+  top: 28px;
+  z-index: 1005;
+  text-align: center;
+  text-align: -moz-center;
+  width: 980px;
+}
+.flash-error {
+  display: inline-block;
+  padding: 6px 10px;
+  font-size: 12px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  -moz-box-shadow: 2px 2px 2px #ccc;
+  -webkit-box-shadow: 2px 2px 2px #ccc;
+  box-shadow: 2px 2px 2px #ccc;
+  background-repeat: no-repeat;
+  background-position: 8px center;
+  padding-left: 32px;
+  margin: 0 auto;
+  max-width: 800px;
+}
+.flash-error {
+  background-color: #ff404b;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAOCAIAAABCerDeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw%2FeHBhY2tldCBiZWdpbj0i77u%2FIiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8%2BIDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpBRjBBRkNFQkUxMDMxMUUxQURFQkI3NDY2MjE0Nzc4QSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpBRjBBRkNFQ0UxMDMxMUUxQURFQkI3NDY2MjE0Nzc4QSI%2BIDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjE1OTI3QTIwRTEwMzExRTFBREVCQjc0NjYyMTQ3NzhBIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkFGMEFGQ0VBRTEwMzExRTFBREVCQjc0NjYyMTQ3NzhBIi8%2BIDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY%2BIDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8%2B%2FBXIAwAAAaFJREFUeNp8kk1LG1EUhp87M1IzCUrQ1EK1IBWE0gjVuqiE1IIfWJUExc8EW6w7wT%2Fgrks3broouPJPuHGliGCpG10piCIISqEY1MZoZk5nSC3DjfrAXZ37nvOe914lnf0EEVCCHWZylMQ7vn3nxzaGQRmGLvOwLPq66f2AuHzO0thIsfiosiTz2r9PMD7MyirzXyn8YW6GWC1O8QFlSeb5fNXM1DhVEc7OODrm%2FIL4a9Ipnth3l%2B6ZKUSjfJniRQOOi2lhmSioqGBkkK4kbrnSTwVCIYZSvIkHPNxRWcmnCVpacJyA8l8qJh97GEtzL17fuqfMTtPwnKITmOmt1%2F6WzIhvLGg%2BOFkpml4yMUp1Fa5bminU1zOdpSYauGcQtrEjvs%2F%2FeL68p0r3%2BxH4rYeysr4hGq4rxyey9VNyOb10eSULi5LsMxhOkejQF7u5ZW2TpWUODvWSHSIzRlurId2d%2Fg46wnWei0sKN2VpKWIx2lsttbdPJFwmFAZ6SHbwLEY%2Br5d%2B59jZVZLK%2BHFpb%2BAd08RSFBz%2F92rcFjj99VeAAQDo4p7S2%2BNDFgAAAABJRU5ErkJggg%3D%3D);
+  color: #fff;
+}
+.error {
+  color: #db2a3a;
+}
+.select2-container {
+  margin: 0;
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+}
+.select2-container {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body,
+html {
+  margin: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 13px;
+}
+a {
+  text-decoration: none;
+  color: #2975ca;
+}
+a:hover {
+  text-decoration: underline;
+}
+.accessible #content {
+  line-height: 20px;
+}
+.accessible .filter-container {
+  height: 48px;
+  margin-right: 10px;
+}
+.accessible .opening {
+  line-height: 20px;
+}
+.accessible .level-0 h2,
+.accessible .level-0 h3,
+.accessible .level-0 h4,
+.accessible .level-0 h5,
+.accessible .level-0 h6 {
+  display: block;
+  font-size: 16px;
+  font-weight: 700;
+}
+.accessible .select2-container {
+  min-width: 70px;
+}
+body:before {
+  content: '';
+  height: 100%;
+  float: left;
+  width: 0;
+  margin-top: -32767px;
+}
+#wrapper {
+  max-width: 980px;
+  margin: 0 auto;
+  overflow: auto;
+  padding: 0 10px;
+  min-height: 100%;
+}
+#main {
+  max-width: 100%;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+.opening {
+  margin-bottom: 25px;
+}
+.opening a {
+  font-size: 16px;
+  font-weight: 700;
+}
+.filter-container {
+  display: inline-block;
+}
+.location {
+  color: #757575;
+  margin: 8px 0;
+}
+.error-icon {
+  width: 17px;
+  height: 17px;
+  vertical-align: middle;
+  margin-right: 8px;
+  margin-top: -4px;
+}
+#error_page {
+  padding: 20px;
+}
+#filter-count {
+  font-weight: 500;
+  color: #6e6e6e;
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://adusparxadith.github.io/assets/opensans-light-webfont-a197d699b90d9f53b9a5a85f0c1a8ff349295b023ea3d29278aace731ea40d08.eot);
+  src: local('Open Sans Light'), local('OpenSans-Light'),
+    url(https://adusparxadith.github.io/assets/opensans-light-webfont-a197d699b90d9f53b9a5a85f0c1a8ff349295b023ea3d29278aace731ea40d08.eot#iefix)
+      format('embedded-opentype'),
+    url(https://adusparxadith.github.io/assets/opensans-light-webfont-18c8f1dcbf66f0f9d4278f6b9f1256746fc1407e38c9387b0a1d0ca0002f5d16.woff)
+      format('woff'),
+    url(https://adusparxadith.github.io/assets/opensans-light-webfont-af71462b76d5375fd6d4b8be108cb4afe4bca8a59d3ec713b0b416dc902845ae.woff2)
+      format('woff2'),
+    url(https://adusparxadith.github.io/assets/opensans-light-webfont-908338ba8355d10186fed4cd8d2815af3d49f8cf65f14f42300370bd8bd504b4.ttf)
+      format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://adusparxadith.github.io/assets/opensans-regular-webfont-f87ccee59fa50a390e43b54e88728daeca3afaf912140828a8e12a8b1779cb6d.eot);
+  src: local('Open Sans Regular'), local('OpenSans-Regular'),
+    url(https://adusparxadith.github.io/assets/opensans-regular-webfont-f87ccee59fa50a390e43b54e88728daeca3afaf912140828a8e12a8b1779cb6d.eot#iefix)
+      format('embedded-opentype'),
+    url(https://adusparxadith.github.io/assets/opensans-regular-webfont-1437c45b2d45f8fbd6221cde5b4a513b75d70556462a46da386824667fe8d1bb.woff)
+      format('woff'),
+    url(https://adusparxadith.github.io/assets/opensans-regular-webfont-96dc27aebdaf01100cb77db6bbac5cd7daa8a35373951332c0e21a9692dbf6f0.woff2)
+      format('woff2'),
+    url(https://adusparxadith.github.io/assets/opensans-regular-webfont-09e3537e846e11d96695124f27c922e7fa6f4a68143c97ae566b413db47ba23a.ttf)
+      format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://adusparxadith.github.io/assets/opensans-bold-webfont-037e7226f6a5c480b6f001f64cf27aea5d8602f03a1060434b3ef576de693195.eot);
+  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'),
+    url(https://adusparxadith.github.io/assets/opensans-bold-webfont-037e7226f6a5c480b6f001f64cf27aea5d8602f03a1060434b3ef576de693195.eot#iefix)
+      format('embedded-opentype'),
+    url(https://adusparxadith.github.io/assets/opensans-bold-webfont-91052d9156ceddbbcd7e789cd73349973266fc5c1c14890b39bbf9d10bdaab10.woff)
+      format('woff'),
+    url(https://adusparxadith.github.io/assets/opensans-bold-webfont-4ef1dccc6571ffd3dc5fdce46abb4e1438bb1ddf736b35497382c13d740f94a4.woff2)
+      format('woff2'),
+    url(https://adusparxadith.github.io/assets/opensans-bold-webfont-5353bea6829eda1344a1d7e81c653a1e78d63cc03b2c0c92b7c008c16f8b5159.ttf)
+      format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://adusparxadith.github.io/assets/opensans-extrabold-webfont-35e06ae75644ba7f7afd3d9f0753e04dd136c90b02eb3e0c37305f0fb2a227cb.eot);
+  src: local('Open Sans Bold'), local('OpenSans-Bold'),
+    url(https://adusparxadith.github.io/assets/opensans-extrabold-webfont-35e06ae75644ba7f7afd3d9f0753e04dd136c90b02eb3e0c37305f0fb2a227cb.eot#iefix)
+      format('embedded-opentype'),
+    url(https://adusparxadith.github.io/assets/opensans-extrabold-webfont-6ac5e3f5b6b7e9928f2d21021be1f8b2bb83d7d4f9cff96279bd04b9b8595eb4.woff)
+      format('woff'),
+    url(https://adusparxadith.github.io/assets/opensans-extrabold-webfont-ab093eec80c6ccf3f90653e03117219afd87546053548a5d0f0960416e3bbd9d.woff2)
+      format('woff2'),
+    url(https://adusparxadith.github.io/assets/opensans-extrabold-webfont-9963ffcbb792c4a9fb932936ba0712cc9f52de346c2b8101dfe001e44a4dd3b1.ttf)
+      format('truetype');
+}
+@media (max-width: 640px) {
+  .accessible .filter-container select {
+    width: 100% !important;
+  }
+}
+:root {
+  --background-gradient: linear-gradient(30deg, #f39c12 30%, #f1c40f);
+  --light-purple: #5d3ebc;
+  --dark-purple: #5d3ec2;
+}
+select {
+  appearance: none;
+  outline: 0;
+  border: 0;
+  box-shadow: none;
+  flex: 1;
+  padding: 0 1em;
+  color: var(--dark-purple);
+  background-image: none;
+  cursor: pointer;
+}
+select::-ms-expand {
+  display: none;
+}
+.select {
+  position: relative;
+  display: flex;
+  width: 20em;
+  height: 3em;
+  border-radius: 0.25em;
+  overflow: hidden;
+  border: 2px solid var(--dark-purple);
+  border-radius: 5px;
+}
+.select::after {
+  content: '\25BC';
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 1em;
+  background-color: var(--dark-purple);
+  transition: 0.25s all ease;
+  pointer-events: none;
+  color: #fff;
+}
+.select:hover::after {
+  color: #f39c12;
+}
+h1 {
+  margin: 0 0 0.25em;
+}
+a {
+  font-weight: 700;
+  color: var(--gray);
+  text-decoration: none;
+  padding: 0.25em;
+  border-radius: 0.25em;
+  background: #fff;
+}
