@@ -265,7 +265,7 @@ select::-ms-expand {
   .opening{
     flex-direction: column;
   }
-  .filter-container {
+  .accessible .filter-container {
     height: unset;
     margin-right: 0;
     width: 100%;
@@ -280,5 +280,10 @@ select::-ms-expand {
     overflow: hidden;
     border: 2px solid #cbc6d9;
     border-radius: 5px;
+  }
+  .select{
+    border: 0px solid #000;
+    min-height: unset;
+    width: 100%;
   }
 }
