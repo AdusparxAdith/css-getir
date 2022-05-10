@@ -2,7 +2,7 @@
   padding: 20px;
 }
 .accessible .opening {
-  line-height: 1.833em;
+  line-height: 1.833em !important;
 }
 .opening {
   margin-bottom: 25px;
@@ -91,9 +91,6 @@ a:hover {
 .accessible .filter-container {
   height: 48px;
   margin-right: 10px;
-}
-.accessible .opening {
-  line-height: 20px;
 }
 .accessible .level-0 h2,
 .accessible .level-0 h3,
